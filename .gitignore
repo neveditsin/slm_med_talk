@@ -1,6 +1,3 @@
-# Ignore tutorial sub-packages not ready for commit
-OCR_toolkit/
-
 # Python cache
 *.pyc
 __pycache__/
