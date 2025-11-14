@@ -1,0 +1,28 @@
+Patient Name: Sophia Martinez
+DOB: 1992-12-09
+Encounter Date: 2024-09-15
+MRN: CLN-3110
+
+Chief Complaint:
+  Flare of abdominal pain with alternating constipation and diarrhea.
+
+History of Present Illness:
+  Diagnosed with IBS. Traveled recently; increased stress at work. Notes bloating
+  and cramping relieved after bowel movements. No fever or GI bleeding.
+
+Medications:
+  - dicyclomine 10 mg TID
+  - probiotic capsule daily
+
+Allergies:
+  - shellfish (anaphylaxis)
+
+Vitals:
+  BP 116/72 mmHg, HR 70 bpm, Temp 98.1 F, Weight 142 lb.
+
+Assessment:
+  IBS flare triggered by diet and stress; rule out infection given travel.
+
+Plan:
+  Continue dicyclomine, add low-FODMAP dietary counseling, order stool studies
+  if symptoms persist beyond 10 days. Encourage mindfulness exercises.

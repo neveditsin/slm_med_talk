@@ -1,0 +1,30 @@
+Patient Name: Malik Johnson
+DOB: 1956-06-02
+Encounter Date: 2024-11-04
+MRN: CLN-2044
+
+Chief Complaint:
+  Shortness of breath on exertion and swelling in ankles.
+
+History of Present Illness:
+  History of hypertension and type 2 diabetes. Reports progressive dyspnea
+  climbing stairs for three weeks. Noted 5 lb weight gain and bilateral ankle edema.
+
+Medications:
+  - lisinopril 20 mg daily
+  - metformin 1000 mg BID
+  - atorvastatin 40 mg nightly
+
+Allergies:
+  - none reported
+
+Vitals:
+  BP 146/90 mmHg, HR 88 bpm, RR 20, SpO2 94% RA, Weight 212 lb.
+
+Assessment:
+  Concern for fluid overload secondary to heart failure exacerbation.
+
+Plan:
+  Add furosemide 40 mg daily.
+  Order BNP, CMP, and echocardiogram.
+  Counsel on low-sodium diet and daily weights; follow-up in 1 week.

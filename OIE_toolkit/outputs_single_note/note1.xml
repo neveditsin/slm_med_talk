@@ -1,0 +1,58 @@
+Below is the XML representation of the provided document. The XML is structured to ensure it is valid and includes detailed field names for clarity.
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<PatientRecord>
+    <PatientInformation>
+        <PatientName>Ana Patel</PatientName>
+        <DateOfBirth>1987-03-18</DateOfBirth>
+        <MedicalRecordNumber>CLN-1001</MedicalRecordNumber>
+    </PatientInformation>
+    <EncounterDetails>
+        <EncounterDate>2024-10-21</EncounterDate>
+    </EncounterDetails>
+    <ChiefComplaint>
+        Persistent headache and intermittent blurry vision over the past week.
+    </ChiefComplaint>
+    <HistoryOfPresentIllness>
+        Patient reports throbbing pain behind the eyes, worsened by screen time.
+        Denies nausea or vomiting. Sleep schedule irregular due to night shifts.
+    </HistoryOfPresentIllness>
+    <Medications>
+        <Medication>
+            <Name>ibuprofen</Name>
+            <Dosage>400 mg</Dosage>
+            <Frequency>PRN</Frequency>
+        </Medication>
+        <Medication>
+            <Name>oral contraceptive pill</Name>
+            <Components>
+                <Component>ethinyl estradiol</Component>
+                <Component>norgestimate</Component>
+            </Components>
+        </Medication>
+    </Medications>
+    <Allergies>
+        <Allergy>
+            <Substance>penicillin</Substance>
+            <Reaction>rash</Reaction>
+        </Allergy>
+    </Allergies>
+    <Vitals>
+        <BloodPressure>128/82 mmHg</BloodPressure>
+        <HeartRate>78 bpm</HeartRate>
+        <Temperature>98.4 F</Temperature>
+        <BodyMassIndex>24.6</BodyMassIndex>
+    </Vitals>
+    <Assessment>
+        Likely tension-type headache triggered by eye strain and poor sleep hygiene.
+    </Assessment>
+    <Plan>
+        Initiate naproxen 500 mg BID with food for 5 days.
+        Recommend ergonomic workstation adjustments and 20-20-20 eye rest rule.
+        Schedule optometry referral; follow-up in two weeks.
+    </Plan>
+</PatientRecord>
+```
+
+This XML document is structured to capture all the relevant information from the provided document, with clear and detailed field names for each piece of data. The free-form text is kept as unstructured text within the appropriate sections.

@@ -1,0 +1,29 @@
+Patient Name: Ana Patel
+DOB: 1987-03-18
+Encounter Date: 2024-10-21
+MRN: CLN-1001
+
+Chief Complaint:
+  Persistent headache and intermittent blurry vision over the past week.
+
+History of Present Illness:
+  Patient reports throbbing pain behind the eyes, worsened by screen time.
+  Denies nausea or vomiting. Sleep schedule irregular due to night shifts.
+
+Medications:
+  - ibuprofen 400 mg PRN
+  - oral contraceptive pill (ethinyl estradiol/norgestimate)
+
+Allergies:
+  - penicillin (rash)
+
+Vitals:
+  BP 128/82 mmHg, HR 78 bpm, Temp 98.4 F, BMI 24.6
+
+Assessment:
+  Likely tension-type headache triggered by eye strain and poor sleep hygiene.
+
+Plan:
+  Initiate naproxen 500 mg BID with food for 5 days.
+  Recommend ergonomic workstation adjustments and 20-20-20 eye rest rule.
+  Schedule optometry referral; follow-up in two weeks.
