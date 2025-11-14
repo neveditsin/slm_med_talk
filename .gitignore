@@ -1,0 +1,12 @@
+# Ignore tutorial sub-packages not ready for commit
+OCR_toolkit/
+OIE_toolkit/
+
+# Python cache
+*.pyc
+__pycache__/
+
+# Notebook checkpoints
+*.ipynb_checkpoints
+.ipynb_checkpoints/
+*checkpoint.ipynb

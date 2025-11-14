@@ -1,0 +1,13 @@
+# Core ASR + tutorial dependencies
+transformers>=4.39
+torch>=2.1
+# sox and torchaudio are optional for preprocessing; include torchaudio for completeness
+torchaudio>=2.1
+librosa>=0.10
+soundfile>=0.13
+numpy>=1.24
+scipy>=1.11
+tqdm>=4.65
+datasets>=2.21
+# Notebook support
+jupyterlab>=4.1
